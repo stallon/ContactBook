@@ -1,0 +1,7 @@
+{
+	"contacts" : [
+		{ "name" : "홍길동", "phoneNumber" : "010-1245-3854" },
+		{ "name" : "임꺽정", "phoneNumber" : "010-4824-2345" },
+		{ "name" : "홍길동", "phoneNumber" : "010-4434-2456" },
+	]
+}
